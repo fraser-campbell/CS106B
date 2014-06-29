@@ -1,0 +1,1 @@
+g++ Graphics.cpp StanfordCPPLib/*.cpp -o output -lpthread
